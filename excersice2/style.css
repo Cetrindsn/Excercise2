@@ -1,0 +1,120 @@
+
+body{
+	background-color: #666666;
+}
+
+h1{
+	color: white;
+	font-size: 40px;
+}
+
+table{
+	border: none;
+}
+
+td{
+	border: none;
+	padding: 5px;
+}
+
+.btn_hasil{
+	width: 100%;
+	padding: 10px;
+	cursor: pointer;
+	border: none;
+	color: black;
+	background-color:  #0000ff;
+	font-size: 40px;
+}
+
+.btn, .btn_proses{
+	width: 100px;
+	height: auto;
+	padding: 10px;
+	cursor: pointer;
+	border: none;
+	color: black;
+	background-color:  #e6e6e6;
+	font-size: 40px;
+
+}
+
+.btn_lambang{
+	width: 100px;
+	height: auto;
+	padding: 10px;
+	cursor: pointer;
+	border: none;
+	color: black;
+	background-color:  #e6e6e6;
+	font-size: 40px;
+}
+
+.btn_clear{
+	width: 100px;
+	height: auto;
+	padding: 10px;
+	cursor: pointer;
+	border: none;
+	color: black;
+	background-color:  #ff0000;
+	font-size: 40px;
+}
+
+.btn_delete{
+	width: 100px;
+	height: auto;
+	padding: 10px;
+	cursor: pointer;
+	border: none;
+	color: black;
+	background-color:  green;
+	font-size: 40px;
+}
+
+.btn_delete:hover{
+	background-color: black;
+	color: white;
+}
+
+.btn_clear:hover{
+	background-color: black;
+	color: white;
+}
+
+.btn_lambang:hover{
+	background-color: black;
+	color: white;
+}
+
+.btn:hover{
+	background-color: black;
+	color: white;
+}
+
+.btn_proses:hover{
+	background-color: black;
+	color: white;
+}
+
+.btn_hasil:hover{
+	background-color: black;
+	color: white;
+}
+
+.Hasil{
+	background-color: #008CBA;
+}
+input[type=text]{
+	border-style:black solid;
+	text-align: right;
+	font-size: 40px;
+	color: black;
+	width: 418px;
+	height: auto;
+	padding: 10px;
+	
+	
+}
+
+
